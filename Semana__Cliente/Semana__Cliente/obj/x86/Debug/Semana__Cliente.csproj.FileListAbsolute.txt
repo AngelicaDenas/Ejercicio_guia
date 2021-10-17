@@ -1,0 +1,7 @@
+C:\Users\gluy2\Documents\Universidad\2.2 SO\Semana 4\Hecho por mi\Semana__Cliente\Semana__Cliente\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\gluy2\Documents\Universidad\2.2 SO\Semana 4\Hecho por mi\Semana__Cliente\Semana__Cliente\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\gluy2\Documents\Universidad\2.2 SO\Semana 4\Hecho por mi\Semana__Cliente\Semana__Cliente\obj\x86\Debug\Semana__Cliente.csproj.GenerateResource.Cache
+C:\Users\gluy2\Documents\Universidad\2.2 SO\Semana 4\Hecho por mi\Semana__Cliente\Semana__Cliente\bin\Debug\Semana__Cliente.exe
+C:\Users\gluy2\Documents\Universidad\2.2 SO\Semana 4\Hecho por mi\Semana__Cliente\Semana__Cliente\bin\Debug\Semana__Cliente.pdb
+C:\Users\gluy2\Documents\Universidad\2.2 SO\Semana 4\Hecho por mi\Semana__Cliente\Semana__Cliente\obj\x86\Debug\Semana__Cliente.exe
+C:\Users\gluy2\Documents\Universidad\2.2 SO\Semana 4\Hecho por mi\Semana__Cliente\Semana__Cliente\obj\x86\Debug\Semana__Cliente.pdb
